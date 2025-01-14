@@ -1,2 +1,7 @@
 #ENV variables
 .env*
+
+# Node.js
+node_modules/
+
+src/
